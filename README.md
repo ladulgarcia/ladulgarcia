@@ -6,9 +6,9 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ladulgarcia)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ladulgarcia/)
 
-I am a junior full-stack software developer and computer science student. I love learning tech, exercising 🏃🏻‍♀️🧘🏻‍♀️, playing sax 🎷, walking my 🐶 and traveling.
+I am a junior full-stack software developer and computer science student. I love learning tech, exercising 🏃🏻‍♀️🧘🏻‍♀️, playing sax 🎷, walking my 🐶, traveling and spending time with my family.
 
-I am studying to become a software engineerto to work in a team where we can make things that have an impact in people's life. 
+I am studying to become a software engineer to work on a team where we can make things that have an impact on people's lives using technology and software.
 
 Talking about personal stuff:
 
